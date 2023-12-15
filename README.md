@@ -1,6 +1,6 @@
 # Carbon14 Node
 
-[![npm version](https://badge.fury.io/js/carbon14-node.svg)](https://www.npmjs.com/package/carbon14-node)
+[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.2&x2=0)](https://www.npmjs.com/package/carbon14-node)
 
 Carbon14 Node is a Node.js module for [Carbon14](https://www.carbon14.com/) web page analysis.
 

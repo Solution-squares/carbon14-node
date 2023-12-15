@@ -1,6 +1,6 @@
 {
 	"name": "carbon14-node",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "\"Carbon14 dating of a digitial website\"",
 	"main": "index.js",
 	"scripts": {
@@ -14,7 +14,7 @@
 		"Carbon14"
 	],
 	"author": "Shahid Tumbi",
-	"license": "ISC",
+	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/Solution-squares/carbon14-node/issues"
 	},
