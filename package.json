@@ -1,6 +1,6 @@
 {
 	"name": "carbon14-node",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "\"Carbon14 dating of a digitial website\"",
 	"main": "index.js",
 	"scripts": {

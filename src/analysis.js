@@ -103,7 +103,7 @@ class Analysis {
 			this.images.sort((a, b) => a.timestamp - b.timestamp);
 			this.end = DateTime.utc();
 		} catch (error) {
-			error('Error fetching page!');
+			console.log('Error fetching page!');
 		}
 	}
 }
